@@ -22,7 +22,7 @@
 
 
 .section {
-  background-color: whitesmoke;
+  background-color: goldenrod;
   display: flex;
   flex-direction: column;
   gap: 20px;
