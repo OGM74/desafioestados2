@@ -10,7 +10,7 @@ function Registro() {
             <h4>O usa tu email para regitrarte</h4>
             <Formulario setAlert={setAlert} />
             {alert.mensaje && <h3 style={{ color: alert.color }}>{alert.mensaje}</h3>}
-
+<p> Ejercicio realizado por Olga González</p>
         </>
     )
 }
